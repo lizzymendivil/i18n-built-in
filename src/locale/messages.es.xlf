@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="demo.choose_language" datatype="html">
+        <source>Choose Language</source>
+        <target>Elige un Idioma</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.title" datatype="html">
+        <source>Internationalize your App!</source>
+        <target>¡Internacionaliza tu App!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.by" datatype="html">
+        <source>By Lizzy Mendivil</source>
+        <target>Por Lizzy Mendivil</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.welcome" datatype="html">
+        <source>Welcome!</source>
+        <target>¡Bienvenido!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.username" datatype="html">
+        <source>Username</source>
+        <target>Usuario</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.password" datatype="html">
+        <source>Password</source>
+        <target>Contraseña</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit><trans-unit id="demo.remember" datatype="html">
+        <source>
+      <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/>"/> Remember me
+    </source><target state="final">
+      <x id="TAG_INPUT" ctype="x-input" equiv-text="&lt;input/>"/> Recordar
+    </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.forgot_password" datatype="html">
+        <source>Forgot password?</source>
+        <target>¿Olvidó su contraseña?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.signin" datatype="html">
+        <source>Sign in</source>
+        <target>Ingresar</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.signin_with" datatype="html">
+        <source>Or sign in with</source>
+        <target>O ingresar con</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.not_member" datatype="html">
+        <source>Not a member?</source>
+        <target>No es miembro todavía?</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="demo.signup" datatype="html">
+        <source>Sign up now</source>
+        <target>Regístrese ahora</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
